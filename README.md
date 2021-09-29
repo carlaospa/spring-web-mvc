@@ -1,12 +1,12 @@
-# O que � Spring
+# O que é Spring
 
 ## Spring Framework
 
-+ Complemento ao Java EE. N�o � uma implmenta��o. Integra��o com algumas especifica��es
-+ Container de Invers�o de Controle - Inversion of Control (IoC)
-+ Inje��o de Depend�ncia - dependency injection (DI) : @Autowired	
-+ Spring Beans : <bean/>  @Bean : Um Objeto que ser� gerenciado pelo IoC Container
-+ org.springframework.context.ApplicationContext : Representa IoC container e � responsavel instanciar, configurar e cosntruir esses beans.
++ Complemento ao Java EE. Não é uma implmentação. Integração com algumas especificações
++ Container de Inversão de Controle - Inversion of Control (IoC)
++ Injeção de Dependência - dependency injection (DI) : @Autowired	
++ Spring Beans : <bean/>  @Bean : Um Objeto que será gerenciado pelo IoC Container
++ org.springframework.context.ApplicationContext : Representa IoC container e é responsavel instanciar, configurar e cosntruir esses beans.
 + 5.0.6
 + Spring?s Aspect-Oriented Programming (AOP)
 + Spring Web MVC 
@@ -22,10 +22,10 @@
 
 ## Spring Boot
 
-+ Conven��o sobre Configura��o.
-+ Auto configura��es por padr�o.
-+ Pronto para Produ��o (you can "just run").
-+ N�o � um gerador de c�digo.
++ Convenção sobre Configuração.
++ Auto configurações por padrão.
++ Pronto para Produção (you can "just run").
++ Não é um gerador de código.
 + Plug-and-play de modulos starters
 + Tomcat, Jetty ou Undertow embedado
 + 2.0.3
@@ -47,5 +47,3 @@
 + @Service
 + ModelAndView VS Model
 + EL ${}
-
-FONTE DIGITAL INNOVATION
